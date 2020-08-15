@@ -1,4 +1,3 @@
 all:
-	/bin/cp -a ../cffi/doc ./
-	hg status
-	hgdiff
+	/bin/cp -a ../../hg/cffi/doc ./
+	(git status && git diff --color) | less
