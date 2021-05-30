@@ -52,13 +52,13 @@ Download and Installation:
 
 * https://pypi.python.org/pypi/cffi
 
-* Checksums of the "source" package version 1.14.2:
+* Checksums of the "source" package version 1.14.5:
 
-   - MD5: 3cc2f1daf62dd66eda79b4d6281cebfc
+   - MD5: 272cb183bf0365530e3c0d8f446cd89d
 
-   - SHA: 6d2f277d1f1e3d9a09fc5df4bfcea63229e8e8d1
+   - SHA1: 21cdeccd7b7b121d35eae1b8e91d78f9ec83da98
 
-   - SHA256: ae8f34d50af2c2154035984b8b5fc5d9ed63f32fe615646ab435b05b132ca91b
+   - SHA256: fd78e5fee591709f32ef6edb9a015b4aa1a5022598e36227500c8f4e02328d9c
 
 * Or grab the most current version from the `Heptapod page`_:
   ``hg clone https://foss.heptapod.net/pypy/cffi``
