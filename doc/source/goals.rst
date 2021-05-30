@@ -56,7 +56,7 @@ Comments and bugs
 -----------------
 
 The best way to contact us is on the IRC ``#pypy`` channel of
-``irc.freenode.net``.  Feel free to discuss matters either there or in
+``irc.libera.chat``.  Feel free to discuss matters either there or in
 the `mailing list`_.  Please report to the `issue tracker`_ any bugs.
 
 As a general rule, when there is a design issue to resolve, we pick the
